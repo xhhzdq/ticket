@@ -1,0 +1,5 @@
+org\opengoofy\index12306\biz\ticketservice\TrainCarriageTests.class
+org\opengoofy\index12306\biz\ticketservice\TicketStationPriceTests.class
+org\opengoofy\index12306\biz\ticketservice\TicketStationRelationTests.class
+org\opengoofy\index12306\biz\ticketservice\TicketSeatTests.class
+org\opengoofy\index12306\biz\ticketservice\TrainStationTests.class

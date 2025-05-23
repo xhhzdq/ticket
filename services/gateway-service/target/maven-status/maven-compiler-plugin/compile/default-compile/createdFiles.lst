@@ -1,0 +1,6 @@
+org\opengoofy\index12306\biz\gatewayservice\config\Config.class
+org\opengoofy\index12306\biz\gatewayservice\toolkit\UserInfoDTO.class
+org\opengoofy\index12306\biz\gatewayservice\filter\TokenValidateGatewayFilterFactory.class
+org\opengoofy\index12306\biz\gatewayservice\GatewayServiceApplication.class
+org\opengoofy\index12306\biz\gatewayservice\toolkit\UserInfoDTO$UserInfoDTOBuilder.class
+org\opengoofy\index12306\biz\gatewayservice\toolkit\JWTUtil.class

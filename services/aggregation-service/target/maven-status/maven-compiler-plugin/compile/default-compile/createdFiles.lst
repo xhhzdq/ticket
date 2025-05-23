@@ -1,0 +1,5 @@
+org\opengoofy\index12306\biz\aggregationservice\config\DemoModeConfiguration.class
+org\opengoofy\index12306\biz\aggregationservice\config\DemoModeProperties.class
+org\opengoofy\index12306\biz\aggregationservice\AggregationServiceApplication.class
+org\opengoofy\index12306\biz\aggregationservice\config\DemoModeConfiguration$DemoModeInterceptor.class
+META-INF\spring-configuration-metadata.json

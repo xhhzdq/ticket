@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "aggregation.demo-mode",
+      "type": "org.opengoofy.index12306.biz.aggregationservice.config.DemoModeProperties",
+      "sourceType": "org.opengoofy.index12306.biz.aggregationservice.config.DemoModeProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "aggregation.demo-mode.blacklist",
+      "type": "java.util.List<java.lang.String>",
+      "description": "演示环境黑名单路径",
+      "sourceType": "org.opengoofy.index12306.biz.aggregationservice.config.DemoModeProperties"
+    },
+    {
+      "name": "aggregation.demo-mode.enable",
+      "type": "java.lang.Boolean",
+      "description": "是否开启演示环境模式",
+      "sourceType": "org.opengoofy.index12306.biz.aggregationservice.config.DemoModeProperties"
+    }
+  ],
+  "hints": []
+}
